@@ -547,9 +547,6 @@
     <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\rsa\rsa_impl.c">
       <Filter>third_party\boringssl\crypto\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\sha\sha1-altivec.c">
-      <Filter>third_party\boringssl\crypto\sha</Filter>
-    </ClCompile>
     <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\sha\sha1.c">
       <Filter>third_party\boringssl\crypto\sha</Filter>
     </ClCompile>
@@ -967,9 +964,6 @@
       <Filter>third_party\boringssl\crypto\ec</Filter>
     </ClInclude>
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\ec\p256-x86_64-table.h">
-      <Filter>third_party\boringssl\crypto\ec</Filter>
-    </ClInclude>
-    <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\ec\p256-x86_64.h">
       <Filter>third_party\boringssl\crypto\ec</Filter>
     </ClInclude>
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\evp\internal.h">

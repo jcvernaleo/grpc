@@ -4269,32 +4269,6 @@
   }, 
   {
     "args": [
-      "third_party/boringssl/crypto/ec/p256-x86_64_tests.txt"
-    ], 
-    "boringssl": true, 
-    "ci_platforms": [
-      "linux", 
-      "mac", 
-      "posix", 
-      "windows"
-    ], 
-    "cpu_cost": 1.0, 
-    "defaults": "boringssl", 
-    "exclude_configs": [
-      "asan"
-    ], 
-    "flaky": false, 
-    "language": "c++", 
-    "name": "boringssl_p256-x86_64_test", 
-    "platforms": [
-      "linux", 
-      "mac", 
-      "posix", 
-      "windows"
-    ]
-  }, 
-  {
-    "args": [
       "third_party/boringssl/crypto/ecdh/ecdh_tests.txt"
     ], 
     "boringssl": true, 

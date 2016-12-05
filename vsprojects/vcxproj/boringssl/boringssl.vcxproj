@@ -162,7 +162,6 @@
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\digest\md32_common.h" />
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\ec\internal.h" />
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\ec\p256-x86_64-table.h" />
-    <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\ec\p256-x86_64.h" />
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\evp\internal.h" />
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\internal.h" />
     <ClInclude Include="$(SolutionDir)\..\third_party\boringssl\crypto\modes\internal.h" />
@@ -619,8 +618,6 @@
     <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\rsa\rsa_asn1.c">
     </ClCompile>
     <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\rsa\rsa_impl.c">
-    </ClCompile>
-    <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\sha\sha1-altivec.c">
     </ClCompile>
     <ClCompile Include="$(SolutionDir)\..\third_party\boringssl\crypto\sha\sha1.c">
     </ClCompile>

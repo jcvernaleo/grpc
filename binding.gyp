@@ -334,7 +334,6 @@
             'third_party/boringssl/crypto/rsa/rsa.c',
             'third_party/boringssl/crypto/rsa/rsa_asn1.c',
             'third_party/boringssl/crypto/rsa/rsa_impl.c',
-            'third_party/boringssl/crypto/sha/sha1-altivec.c',
             'third_party/boringssl/crypto/sha/sha1.c',
             'third_party/boringssl/crypto/sha/sha256.c',
             'third_party/boringssl/crypto/sha/sha512.c',

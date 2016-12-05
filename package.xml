@@ -573,7 +573,6 @@
     <file baseinstalldir="/" name="third_party/boringssl/crypto/digest/md32_common.h" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/ec/internal.h" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/ec/p256-x86_64-table.h" role="src" />
-    <file baseinstalldir="/" name="third_party/boringssl/crypto/ec/p256-x86_64.h" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/evp/internal.h" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/internal.h" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/modes/internal.h" role="src" />
@@ -847,7 +846,6 @@
     <file baseinstalldir="/" name="third_party/boringssl/crypto/rsa/rsa.c" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/rsa/rsa_asn1.c" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/rsa/rsa_impl.c" role="src" />
-    <file baseinstalldir="/" name="third_party/boringssl/crypto/sha/sha1-altivec.c" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/sha/sha1.c" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/sha/sha256.c" role="src" />
     <file baseinstalldir="/" name="third_party/boringssl/crypto/sha/sha512.c" role="src" />

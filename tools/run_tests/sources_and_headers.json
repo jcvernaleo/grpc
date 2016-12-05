@@ -3534,20 +3534,6 @@
   {
     "deps": [
       "boringssl", 
-      "boringssl_p256-x86_64_test_lib", 
-      "boringssl_test_util"
-    ], 
-    "headers": [], 
-    "is_filegroup": false, 
-    "language": "c++", 
-    "name": "boringssl_p256-x86_64_test", 
-    "src": [], 
-    "third_party": true, 
-    "type": "target"
-  }, 
-  {
-    "deps": [
-      "boringssl", 
       "boringssl_ecdh_test_lib", 
       "boringssl_test_util"
     ], 
@@ -5646,7 +5632,6 @@
       "third_party/boringssl/crypto/digest/md32_common.h", 
       "third_party/boringssl/crypto/ec/internal.h", 
       "third_party/boringssl/crypto/ec/p256-x86_64-table.h", 
-      "third_party/boringssl/crypto/ec/p256-x86_64.h", 
       "third_party/boringssl/crypto/evp/internal.h", 
       "third_party/boringssl/crypto/internal.h", 
       "third_party/boringssl/crypto/modes/internal.h", 
@@ -6001,19 +5986,6 @@
     "is_filegroup": false, 
     "language": "c", 
     "name": "boringssl_example_mul_lib", 
-    "src": [], 
-    "third_party": true, 
-    "type": "lib"
-  }, 
-  {
-    "deps": [
-      "boringssl", 
-      "boringssl_test_util"
-    ], 
-    "headers": [], 
-    "is_filegroup": false, 
-    "language": "c++", 
-    "name": "boringssl_p256-x86_64_test_lib", 
     "src": [], 
     "third_party": true, 
     "type": "lib"
